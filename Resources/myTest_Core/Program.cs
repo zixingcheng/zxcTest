@@ -19,7 +19,7 @@ namespace myTest_Core
                 .UseApplicationInsights()
                 .Build();
 
-            //GitHub Test Change  002-GitHub
+            //GitHub Test Change  003-本地修改不推送
 
             host.Run();
         }
