@@ -19,7 +19,7 @@ namespace myTest_Core
                 .UseApplicationInsights()
                 .Build();
 
-            //GitHub Test Change  002
+            //GitHub Test Change  002-GitHub
 
             host.Run();
         }
